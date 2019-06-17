@@ -1,7 +1,13 @@
 # Wrike XLS Import Generator
 A set of tools to generate a Wrike formatted XLS from different sources. eg. JIRA > Wrike, Trello > Wrike
 
-Note: This is a very quick and dirty script. Feel free to contribute!
+Note: This
+
+## Setup
+Run
+```
+npm install
+```
 
 ## Usage
 1. Export a list of issues from JIRA as CSV ( Trello as JSON )
